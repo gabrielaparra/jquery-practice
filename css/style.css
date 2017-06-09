@@ -1,0 +1,23 @@
+.hot-title {
+
+}
+
+/*yellow version*/
+.warm {
+  color: yellow;
+  font-size: 35px;
+}
+
+/*orange version*/
+.hot {
+  color: darkorange;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+/*red version*/
+.really-hot {
+  color: red;
+  font-size: 50px;
+  font-weight: bold;
+}
